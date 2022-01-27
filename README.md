@@ -1,6 +1,7 @@
 # CSCU9YQ-NoSQL-Databases
 This project was realized as a group assignment for the course CSCU9YQ at the University of Stirling.
 
+Assignment description:<br>
 Welcome! We hope you like movies as much as we do. You are given a dataset in JSON format containing information about a set of movies produced from the early 1900s until 2018.  The dataset includes features such as genre, year, countries, actors, director, description of the plot, etc, as well as awards, nominations and ratings according to three movie reviewing-aggregation websites: reviewing-aggregation websites: IMDb, Rotten Tomatoes, and Metacritic.  
 
 You should use mongo shell commands for the queries. You can use either the find command or the aggregation framework, according to the characteristics of the query.
